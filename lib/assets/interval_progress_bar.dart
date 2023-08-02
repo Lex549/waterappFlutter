@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/placeholder.dart';
 
 class IntervalProgressBar extends StatefulWidget {
   const IntervalProgressBar({Key? key}): super(key: key);
